@@ -6,7 +6,7 @@ import {
   Select,
   Card,
   CardContent,
-} from '@material-ui/core';
+} from '@mui/material';
 import InfoBox from './InfoBox';
 import LineGraph from './LineGraph';
 import Table from './Table';
